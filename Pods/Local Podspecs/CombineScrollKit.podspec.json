@@ -1,0 +1,22 @@
+{
+  "name": "CombineScrollKit",
+  "version": "0.1.0",
+  "summary": "A short description of CombineScrollKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chentong/CombineScrollKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chentong": "chentong.tomychen@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/chentong/CombineScrollKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CombineScrollKit/Classes/**/*"
+}

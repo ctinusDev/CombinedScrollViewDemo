@@ -1,0 +1,16 @@
+PODS:
+  - CombinedScrollKit (0.1.0)
+
+DEPENDENCIES:
+  - CombinedScrollKit (from `./DevPods/CombinedScrollKit`)
+
+EXTERNAL SOURCES:
+  CombinedScrollKit:
+    :path: "./DevPods/CombinedScrollKit"
+
+SPEC CHECKSUMS:
+  CombinedScrollKit: 873c155388c74877b572d77d36a3f9141dfac7e3
+
+PODFILE CHECKSUM: a6d88067fdfbb48b54657f3bbf191160e3168e2a
+
+COCOAPODS: 1.11.2

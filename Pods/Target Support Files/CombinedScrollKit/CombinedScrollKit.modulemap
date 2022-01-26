@@ -1,0 +1,6 @@
+framework module CombinedScrollKit {
+  umbrella header "CombinedScrollKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
